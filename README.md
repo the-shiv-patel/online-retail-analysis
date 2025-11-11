@@ -7,15 +7,17 @@
 This project performs **end-to-end data analysis** of retail sales data — from raw extraction to interactive dashboards in Power BI.
 The goal is to monitor sales performance, customer behavior, and business health using automated ETL, RFM segmentation, and clustering.
 
----
 
-## 🏗️ System Architecture
-<img width="1121" height="745" alt="yloy" src="https://github.com/user-attachments/assets/373999e0-f8e3-4619-9053-75658f0f565a" />
 
 
 **Flow Overview**
 
 <img width="1172" height="1908" alt="High Level System Architecture Diagram (1)" src="https://github.com/user-attachments/assets/1a0efa02-1a9c-490f-8cd5-e8d07659473d" />
+
+---
+
+## 🏗️ DataBase Structure and Schema
+<img width="1121" height="745" alt="yloy" src="https://github.com/user-attachments/assets/373999e0-f8e3-4619-9053-75658f0f565a" />
 
 **ETL Highlights**
 
